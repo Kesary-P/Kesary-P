@@ -1,18 +1,63 @@
-## Hi there 👋
-![Testeuse](profile/profile.gif "mon theme").
-Passionnée par les nouvelles technologies, j’ai transformé un licenciement en opportunité pour me reconvertir dans le numérique. Titulaire d’un DUT Informatique et d’une Licence Pro Réseaux & Télécoms, je continue d’explorer et d’apprendre chaque jour ! 
+<div align="center">
 
-<!--
-**Kesary-Pavaday/Kesary-Pavaday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bonjour, moi c'est Kesary 👋
 
-Here are some ideas to get you started:
+### Développeuse · Testeuse logiciel · Future développeuse d'agents IA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Je construis des solutions numériques avec une attention particulière portée à la qualité, à la transmission et à l'expérience utilisateur.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Découvrir-7568FF?style=for-the-badge)](https://kesary-pavaday.github.io/cv-kp.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kesary_Pavaday-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kesary-pavaday-9970a4133/)
+
+</div>
+
+## 👩‍💻 À propos de moi
+
+Mon parcours réunit le **développement web**, la **formation en programmation**, le **test logiciel**, l'**administration réseau**, le **support informatique** et la **démarche qualité**.
+
+Cette expérience transversale me permet de comprendre un produit du point de vue de sa conception, de sa fiabilité et de ses utilisateurs. Aujourd'hui, je développe progressivement mes compétences pour concevoir des **applications enrichies par l'intelligence artificielle** et des **agents IA utiles, fiables et accessibles**.
+
+## 🧰 Compétences
+
+### Développement
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Qualité, pédagogie et systèmes
+
+- Tests fonctionnels et certification ISTQB
+- Conception de supports et accompagnement pédagogique
+- Administration avec Active Directory, Microsoft 365 et SCCM
+- Support informatique de niveaux 1 et 2
+- Coordination de projets techniques
+
+## 🤖 Mon parcours vers les agents IA
+
+- [ ] Consolider Python et les fondamentaux du développement logiciel
+- [ ] Utiliser les API de modèles de langage
+- [ ] Concevoir un assistant capable d'utiliser des outils et des données
+- [ ] Explorer le RAG et les bases vectorielles
+- [ ] Tester, documenter et sécuriser chaque projet
+- [ ] Publier des démonstrations concrètes de ma progression
+
+## 🚀 Mes projets
+
+### [Portfolio personnel](https://github.com/Kesary-Pavaday/cv-kp.github.io)
+
+Une vitrine responsive et accessible pour présenter mon parcours, mes compétences et ma transition vers les agents IA.
+
+### Assistant pédagogique IA — à venir
+
+Un premier agent destiné à expliquer une notion, proposer un exercice adapté puis donner un retour constructif.
+
+---
+
+<div align="center">
+
+### Apprendre, construire, tester, partager.
+
+Ce profil évolue avec chacun de mes projets.
+
+</div>
