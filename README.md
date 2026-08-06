@@ -27,7 +27,7 @@ Cette expérience transversale me permet de comprendre un produit du point de vu
 
 ### Qualité, pédagogie et systèmes
 
-- Tests fonctionnels et certification ISTQB
+- Formation au test logiciel basée sur le référentiel ISTQB
 - Conception de supports et accompagnement pédagogique
 - Administration avec Active Directory, Microsoft 365 et SCCM
 - Support informatique de niveaux 1 et 2
