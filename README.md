@@ -6,7 +6,7 @@
 
 Je construis des solutions numériques avec une attention particulière portée à la qualité, à la transmission et à l'expérience utilisateur.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Découvrir-7568FF?style=for-the-badge)](https://kesary-pavaday.github.io/cv-kp.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Découvrir-7568FF?style=for-the-badge)](https://kesary-p.github.io/cv-kp.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kesary_Pavaday-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kesary-pavaday-9970a4133/)
 
 </div>
@@ -44,7 +44,7 @@ Cette expérience transversale me permet de comprendre un produit du point de vu
 
 ## 🚀 Mes projets
 
-### [Portfolio personnel](https://github.com/Kesary-Pavaday/cv-kp.github.io)
+### [Portfolio personnel](https://github.com/Kesary-P/cv-kp.github.io)
 
 Une vitrine responsive et accessible pour présenter mon parcours, mes compétences et ma transition vers les agents IA.
 
