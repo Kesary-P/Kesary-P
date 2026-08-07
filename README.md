@@ -19,10 +19,16 @@ Cette expérience transversale me permet de comprendre un produit du point de vu
 
 ## 🧰 Compétences
 
-### Développement
+### [Développement web](competences/developpement-web.md)
+
+Deux axes complémentaires pour montrer ma progression, du navigateur jusqu’aux données :
+
+- **[Site statique — Échappées](competences/site-statique.md)** : HTML sémantique, CSS/LESS responsive, JavaScript et déploiement GitHub Pages.
+- **[Application dynamique](competences/application-dynamique.md)** : architecture CRUD, logique serveur et base de données — projet en construction.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ### Qualité, pédagogie et systèmes
@@ -43,6 +49,10 @@ Cette expérience transversale me permet de comprendre un produit du point de vu
 - [ ] Publier des démonstrations concrètes de ma progression
 
 ## 🚀 Mes projets
+
+### [Échappées — carnet de voyage interactif](https://github.com/Kesary-P/echappees-voyage)
+
+Site statique responsive conçu à partir de maquettes desktop et mobile, enrichi avec JavaScript puis publié sur GitHub Pages. [Voir le site en ligne](https://kesary-p.github.io/echappees-voyage/).
 
 ### [Portfolio personnel](https://github.com/Kesary-P/cv-kp.github.io)
 
