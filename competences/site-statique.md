@@ -46,6 +46,12 @@ Les principales techniques utilisées sont :
 
 L’objectif n’est pas seulement d’obtenir un rendu esthétique : la feuille de styles doit rester lisible, réutilisable et prévisible sur desktop comme sur mobile.
 
+### Capture — résultat du CSS responsive
+
+![Mise en page mobile obtenue avec CSS et les media queries](https://raw.githubusercontent.com/Kesary-P/echappees-voyage/main/docs/maquettes/accueil-mobile.png)
+
+Sur cette capture, le CSS adapte la largeur des blocs, empile les contenus, réduit la navigation et conserve des zones tactiles suffisamment grandes. La même page HTML est utilisée : ce sont les règles CSS et les media queries qui transforment sa présentation.
+
 ### Ce que les captures permettent d’observer
 
 - **Desktop** : navigation horizontale, contenu réparti en colonnes et espace visuel plus généreux ;
@@ -64,6 +70,12 @@ JavaScript est utilisé côté navigateur pour gérer :
 - l’ouverture et la validation du formulaire d’itinéraire.
 
 Ces fonctionnalités démontrent la manipulation du DOM, la gestion des événements et la mise à jour de l’interface selon les actions de l’utilisateur.
+
+### Capture — interaction JavaScript
+
+![Formulaire d’itinéraire ouvert avec JavaScript](https://raw.githubusercontent.com/Kesary-P/echappees-voyage/main/docs/maquettes/javascript-formulaire-itineraire.png)
+
+Le clic sur « Préparer mon voyage » déclenche JavaScript, qui ouvre cette fenêtre modale. Le script gère aussi sa fermeture, les champs du formulaire, la validation et le message de confirmation sans charger une nouvelle page.
 
 ## GitHub et mise en ligne
 
