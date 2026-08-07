@@ -6,6 +6,26 @@
 
 Échappées est un carnet de voyage interactif composé d’une page d’accueil, d’une page Contact et d’une page consacrée à Lisbonne. Le projet montre le passage de la conception responsive à l’intégration, puis au déploiement public.
 
+## Captures de l’interface
+
+### Accueil
+
+| Desktop — 1440 × 1080 | Mobile — 390 × 844 |
+| --- | --- |
+| ![Accueil Échappées sur desktop](https://raw.githubusercontent.com/Kesary-P/echappees-voyage/main/docs/maquettes/accueil-desktop.png) | ![Accueil Échappées sur mobile](https://raw.githubusercontent.com/Kesary-P/echappees-voyage/main/docs/maquettes/accueil-mobile.png) |
+
+### Contact
+
+| Desktop — 1440 × 1080 | Mobile — 390 × 844 |
+| --- | --- |
+| ![Page Contact sur desktop](https://raw.githubusercontent.com/Kesary-P/echappees-voyage/main/docs/maquettes/contact-desktop.png) | ![Page Contact sur mobile](https://raw.githubusercontent.com/Kesary-P/echappees-voyage/main/docs/maquettes/contact-mobile.png) |
+
+### Lisbonne Solaire
+
+| Desktop — 1440 × 1080 | Mobile — 390 × 844 |
+| --- | --- |
+| ![Page Lisbonne Solaire sur desktop](https://raw.githubusercontent.com/Kesary-P/echappees-voyage/main/docs/maquettes/lisbonne-desktop.png) | ![Page Lisbonne Solaire sur mobile](https://raw.githubusercontent.com/Kesary-P/echappees-voyage/main/docs/maquettes/lisbonne-mobile.png) |
+
 ## HTML5 : structurer le contenu
 
 Le HTML organise chaque page avec des éléments sémantiques comme `header`, `nav`, `main`, `section`, `article`, `form` et `footer`. Cette structure rend le contenu plus compréhensible pour le navigateur, les technologies d’assistance et les moteurs de recherche.
@@ -25,6 +45,13 @@ Les principales techniques utilisées sont :
 - dimensions fluides, espacements cohérents et images adaptées à leur conteneur.
 
 L’objectif n’est pas seulement d’obtenir un rendu esthétique : la feuille de styles doit rester lisible, réutilisable et prévisible sur desktop comme sur mobile.
+
+### Ce que les captures permettent d’observer
+
+- **Desktop** : navigation horizontale, contenu réparti en colonnes et espace visuel plus généreux ;
+- **Mobile** : menu réduit, sections empilées et boutons dimensionnés pour une utilisation tactile ;
+- **Cohérence** : mêmes couleurs, typographies, arrondis et niveaux d’information sur les deux formats ;
+- **Responsive design** : la composition change sans dupliquer le contenu HTML.
 
 ## JavaScript : ajouter les interactions
 

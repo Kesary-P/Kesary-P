@@ -4,6 +4,8 @@
 
 > Projet en construction — cette page présente l’objectif technique et sera enrichie avec le dépôt, les captures et la démonstration.
 
+Les captures seront ajoutées ici à chaque étape : liste des données, formulaire de création, fiche détaillée, modification, confirmation de suppression et représentation de la base de données.
+
 ## Objectif
 
 Construire une application qui permet de gérer des données persistantes avec les quatre opérations fondamentales d’un CRUD :

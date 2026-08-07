@@ -21,6 +21,14 @@ Une interface composée de plusieurs pages, développée à partir de maquettes 
 
 [Voir le site](https://kesary-p.github.io/echappees-voyage/) · [Voir le dépôt](https://github.com/Kesary-P/echappees-voyage)
 
+### Aperçu du résultat
+
+| Version desktop | Version mobile |
+| --- | --- |
+| ![Page d’accueil Échappées sur desktop](https://raw.githubusercontent.com/Kesary-P/echappees-voyage/main/docs/maquettes/accueil-desktop.png) | ![Page d’accueil Échappées sur mobile](https://raw.githubusercontent.com/Kesary-P/echappees-voyage/main/docs/maquettes/accueil-mobile.png) |
+
+Ces deux vues montrent comment une même structure s’adapte à la largeur disponible : navigation complète sur desktop, menu compact sur mobile, contenus réorganisés et dimensions ajustées pour conserver une lecture confortable.
+
 ## 2. Application dynamique CRUD et base de données
 
 ### [Projet d’application dynamique — en construction](application-dynamique.md)
